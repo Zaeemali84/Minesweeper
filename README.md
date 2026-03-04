@@ -15,7 +15,7 @@ Designed for practicing C++ logic, arrays, and console I/O.
 ---
 
 ## Screenshot / Demo
-![Minesweeper Demo](Minesweeper-code.jpg)  
+![Minesweeper Demo](Minesweeper-Code.jpg)  
 
 ---
 
@@ -24,3 +24,21 @@ Designed for practicing C++ logic, arrays, and console I/O.
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Minesweeper.git
+
+Navigate to the project folder:
+
+cd Minesweeper
+
+Compile the code using g++ (example):
+
+g++ Minesweeper.cpp -o Minesweeper.exe
+
+If your project has multiple .cpp files, you can compile them all at once:
+
+g++ *.cpp -o Minesweeper.exe
+
+Run the game:
+
+./Minesweeper.exe
+
+Enjoy playing! 🎮
