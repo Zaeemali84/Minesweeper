@@ -14,11 +14,14 @@ Designed for practicing C++ logic, arrays, and console I/O.
 
 ---
 
-## Screenshot / Demo
-![Minesweeper Demo](Minesweeper-Code.png)  
+## Screenshot
+![Minesweeper Functions](Minesweeper-Code.png)  
 
 ---
+## Output
+![Minesweeper Output](Minesweeper-Output.png).
 
+---
 ## How to Run
 
 1. Clone the repository:
