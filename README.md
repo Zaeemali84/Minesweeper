@@ -15,7 +15,7 @@ Designed for practicing C++ logic, arrays, and console I/O.
 ---
 
 ## Screenshot / Demo
-![Minesweeper Demo](Minesweeper-Code.jpg)  
+![Minesweeper Demo](Minesweeper-Code.png)  
 
 ---
 
