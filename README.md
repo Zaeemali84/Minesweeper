@@ -19,7 +19,7 @@ Designed for practicing C++ logic, arrays, and console I/O.
 
 ---
 ## Output
-![Minesweeper Output](Minesweeper-Output.png).
+![Minesweeper Output](Minesweeper-Output.png)
 
 ---
 ## How to Run
