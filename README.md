@@ -14,11 +14,11 @@ Designed for practicing C++ logic, arrays, and console I/O.
 
 ---
 
-## Functions Prototypes
+## Function Prototypes
 ![Minesweeper Functions](Minesweeper-Code.png)  
 
 ---
-## Output Screen
+## Output
 ![Minesweeper Output](Minesweeper-Output.png)
 
 ---
